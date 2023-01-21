@@ -6,3 +6,4 @@ refactor(parser): refactor type commit
 chore(release): chore type commit
 docs(README): documentation commit type
 docs(README): fix typo
+docs(README): add url
