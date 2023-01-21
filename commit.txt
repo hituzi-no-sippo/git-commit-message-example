@@ -32,3 +32,4 @@ perf(protect): secret scanner
 security
 docs(security): update README.md
 feat: commit without scope
+feat(cache)!: ticket #1 (close #1)
