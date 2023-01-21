@@ -17,3 +17,4 @@ docs(README): fix URL in README
 feat(config): set config
 feat(cache): use cache
 fix(config): fix config
+fix(cache): fix cache
